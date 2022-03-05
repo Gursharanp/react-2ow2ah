@@ -7,7 +7,7 @@ return <>
 <div>
   {prop.prop.name} {prop.prop.age}          
 </div>
-<input/>
+<input type='text'/>
 </>
 
 }
